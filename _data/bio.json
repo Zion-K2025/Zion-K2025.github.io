@@ -10,15 +10,15 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "Zion-K2025", "url": "https://github.com/Zion-K2025" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" }
+      { "network": "linkedin", "username": "ZionTamashiro", "url": "https://www.linkedin.com/in/zion-tamashiro-910401347/" }
     ]
   },
   "interests": [
     { "name": "3D printing" },
     { "name": "R-Code/Data Science" },
     { "name": "Sustainability" },
-    { "name": "'Ike Hawaii" },
-    { "name": "Auto Mechanics" }
+    { "name": "Hawaiian Language" },
+    { "name": "Software Development" }
   ],
   "skills": [
     {
