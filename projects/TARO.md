@@ -30,4 +30,6 @@ of identifiable ash deposits, and GIS modeling, we can determine how often explo
 <img width="644" alt="Screenshot 2025-01-30 175404" src="https://github.com/user-attachments/assets/1f01085a-0c75-4da9-95ae-533d3e7a0af3" />
 
 https://www.usgs.gov/news/volcano-watch-chemical-analyses-shed-light-possible-origins-island-ash-deposits
+
+
 USGS link provided, for more additional information on the TARO project and how it affects Hawaii Today in the futre.
