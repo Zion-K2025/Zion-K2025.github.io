@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Intelligent Questions for Dummies"
 # All dates must be YYYY-MM-DD format!
-date: 2025-30-01
+date: 2025-01-30
 published: true
 labels:
   - Questions
@@ -19,7 +19,7 @@ As a Software Engineer, there is a great deal of responsibility when it comes to
 When asking for help or assistance, it is critical to ask consice and clear questions when explaining the problem, especially in test phases or when bugs arise in the code. Smart questions helps with determing specific issues. It cuts down the amount of time by skipping the generalizations and help pinpointing what actually needs to be addressed. No software engineer wants to go through open ended problems, taking a large amount of time just to figure out what is the issue that needs to be addressed. 
 
 
-## How do we deferentiate between a smart and non-smart question
+## What is an example of a smart question?
 
 Here is an example from Stack overflow, where there is difference between two developers that asked to completely different
 questions?
@@ -46,28 +46,11 @@ I noticed each response were similar in how to fix the git error. “By updating
 
 As programmers and software engineers, communication should be excuted in similar fashion to better insure quick response and effiecent formating of the problem at hand, so the co-worker that is helping or the developer giving the help can give more concrete answers instead of searching aimlessly for the problem. 
 
-
-
 ```
-A: datetime and the datetime.timedelta classes are your friend.
+##What is an example of a non-samrt question?
 
-1. find today
-2. use that to find the first day of this month.
-3. use timedelta to backup a single day, to the last day of the previous month.
-4. print the YYYYMM string you're looking for.
 
-Like this:
-
- >>> import datetime
- >>> today = datetime.date.today()
- >>> first = datetime.date(day=1, month=today.month, year=today.year)
- >>> lastMonth = first - datetime.timedelta(days=1)
- >>> print lastMonth.strftime("%Y%m")
- 201202
- >>>
-
-```
- An example of not-smart question is the oppoite of the what is considered smart. Simply saying, “my code doesn’t work, help!” will not show any revelance to the actual problem. It will cause confusion and waste the needed time to finish the project or task that was given to others. 
+An example of not-smart question is the oppoite of the what is considered smart. Simply saying, “my code doesn’t work, help!” will not show any revelance to the actual problem. It will cause confusion and waste the needed time to finish the project or task that was given to others. 
 
 
 An example of this, comes from another Stack overflow submission.
