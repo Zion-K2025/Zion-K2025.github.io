@@ -9,10 +9,11 @@ labels:
   - Lisp
   - GitHub
 summary: "The main goal of the project is to characterize explosive eruptions on Hawai‘i, which is a public concern in terms of hazards that could affect health and property. Our study aims at determining the recurrence rate, magnitude, and origins of these explosive eruptions. We use ash deposits located on the flank of Mauna Loa as a proxy for explosive eruptions. We determined that the Island of Hawai‘i has an explosive eruption every 3000-5000 years. We mapped ash deposit thicknesses for 50 ash layers, which can be used to determine the magnitude of the explosive activity. We  found that ashes around Pāhala are likely from Kīlauea, and that the origin of Kalae ash deposits are split between  Kīlauea, and Mauna Loa.
-"
----
+"<img width="644" alt="Screenshot 2025-01-30 175404" src="https://github.com/user-attachments/assets/4d81782e-f371-41c8-9565-84fc2ae32633" />
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+---
+"<img width="644" alt="Screenshot 2025-01-30 175404" src="https://github.com/user-attachments/assets/4d81782e-f371-41c8-9565-84fc2ae32633" />
+
 
 Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
