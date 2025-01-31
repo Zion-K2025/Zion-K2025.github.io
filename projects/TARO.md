@@ -12,7 +12,6 @@ summary: "The main goal of the project is to characterize explosive eruptions on
 
 
 ---
-"<img width="644" alt="Screenshot 2025-01-30 175404" src="https://github.com/user-attachments/assets/4d81782ef371-41c8-9565-84fc2ae32633" />
 
 
 Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
