@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: <img width="203" alt="HeaderTARO" src="https://github.com/user-attachments/assets/88e1bc9f-75ea-40e9-91e4-13ddf0a37d47" />
 title: "TARO:Temporal Analysis and Region Origin"
 date: 2018-08-08
 published: true
@@ -9,7 +9,6 @@ labels:
   - Lisp
   - GitHub
 summary: "A project that I had done during my intership at the USGS sponsored by the Pacific Intership Program for Exploring Science."
-
 
 ---
 <img width="644" alt="Screenshot 2025-01-30 175404" src="https://github.com/user-attachments/assets/b0ecdd69-e0ab-4920-894b-bccc82afa902" />
