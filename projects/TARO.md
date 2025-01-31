@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: <img width="203" alt="HeaderTARO" src="https://github.com/user-attachments/assets/88e1bc9f-75ea-40e9-91e4-13ddf0a37d47" />
+image: img/HeaderTARO.png
 title: "TARO:Temporal Analysis and Region Origin"
 date: 2018-08-08
 published: true
