@@ -1,14 +1,14 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: 
 title: "TARO:Temporal Analysis and Region Origin"
 date: 2018-08-08
 published: true
 labels:
   - Lisp
   - GitHub
-summary: "The main goal of the project is to characterize explosive eruptions on Hawai‘i, which is a public concern in terms of hazards that could affect health and property. Our study aims at determining the recurrence rate, magnitude, and origins of these explosive eruptions. We use ash deposits located on the flank of Mauna Loa as a proxy for explosive eruptions. We determined that the Island of Hawai‘i has an explosive eruption every 3000-5000 years. We mapped ash deposit thicknesses for 50 ash layers, which can be used to determine the magnitude of the explosive activity. We  found that ashes around Pāhala are likely from Kīlauea, and that the origin of Kalae ash deposits are split between  Kīlauea, and Mauna Loa.
+summary: "The main goal of the project is to characterize explosive eruptions on Hawai‘i, which is a public concern in terms of hazards that could affect health and property. Our study aims at determining the recurrence rate, magnitude, and origins of these explosive eruptions. We use ash deposits located on the flank of Mauna Loa as a proxy for explosive eruptions. We determined that the Island of Hawai‘i has an explosive eruption every 3000-5000 years. We mapped ash deposit thicknesses for 50 ash layers, which can be used to determine the magnitude of the explosive activity. We  found that ashes around Pāhala are likely from Kīlauea, and that the origin of Kalae ash deposits are split between  Kīlauea, and Mauna Loa."
 
 
 ---
