@@ -17,3 +17,5 @@ This study aims to determine the origin, the recurrence rate, and the magnitude 
 <img width="324" alt="GIS MAP1" src="https://github.com/user-attachments/assets/0eec0b2e-08cb-4752-a058-82dc2ac532ae" />
 <img width="644" alt="Screenshot 2025-01-30 175404" src="https://github.com/user-attachments/assets/1f01085a-0c75-4da9-95ae-533d3e7a0af3" />
 
+https://www.usgs.gov/news/volcano-watch-chemical-analyses-shed-light-possible-origins-island-ash-deposits
+USGS link provided, for more additional information on the TARO project and how it affects Hawaii Today in the futre.
