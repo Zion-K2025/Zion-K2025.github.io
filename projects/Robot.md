@@ -10,9 +10,8 @@ labels:
   - Arduino
 summary: "My team developed a robot that is able to climb stairs, while transporting an egg without breaking."
 ---
-
- class="text-center p-4">
-<div<img width="244" alt="RobotPic1" src="https://github.com/user-attachments/assets/42eaaf47-967e-4d3f-8bba-4039da0e9dc5" />
+<div class="text-center p-4">
+<img width="244" alt="RobotPic1" src="https://github.com/user-attachments/assets/42eaaf47-967e-4d3f-8bba-4039da0e9dc5" />
 <img width="204" alt="robotpic2" src="https://github.com/user-attachments/assets/eaa08eac-6867-4c30-9d23-d6272ae8ef64" />
 </div>
 <br/>
