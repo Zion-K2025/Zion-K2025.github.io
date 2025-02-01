@@ -2,41 +2,49 @@
   "basics": {
     "name": "Zion Tamashiro",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
+    "picture": "https://github.com/philipmjohnson.png",
     "email": "zionk@hawaii.edu",
     "phone": "",
-    "website": "https://Zion-K2025.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "website": "https://zion-k2025.github.io/",
+    "summary": "I am a student at the University of Hawaii at Manoa, I am computer science major with a minor in hawaiian language. My expected graduation time will be in spirng of 2027.",
+    "location": { "address": "", "postalCode": "96701", "city": "Aiea", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "Zion-K2025", "url": "https://github.com/Zion-K2025" },
-      { "network": "linkedin", "username": "ZionTamashiro", "url": "https://www.linkedin.com/in/zion-tamashiro" }
+      { "network": "github", "username": "Zion Tamashiro", "url": "https://zion-k2025.github.io/" },
+      { "network": "linkedin", "username": "Zion Tamashiro", "url": "https://www.linkedin.com/in/zion-tamashiro/" }
     ]
   },
   "interests": [
-    { "name": "3D printing" },
-    { "name": "R-Code/Data Science" },
-    { "name": "Sustainability" },
+    { "name": "Software Engineering" },
+    { "name": "Data Science" },
     { "name": "Hawaiian Language" },
-    { "name": "Software Development" }
+    { "name": "Conservation" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Unix", "R-code" ]
+      "keywords": [ "Javascript", "Unix", "C++", "R-code" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Windows" ]
+      "keywords": [ "MacOS", "Windows", "Git/GitHub" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2026)",
+      "institution": "University of Hawaii at Manoa",
+      "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "2022-09-01",
-      "endDate": "Present",
+      "startDate": "2022",
+      "endDate": "2027",
+      "courses": ["ICS111","ICS211","ICS184","ICS314
+      ]
+    },
+    {
+      "institution": "Hawaii Community College",
+      "area": "Liberal ARts",
+      "studyType": "Associate",
+      "startDate": "2014",
+      "endDate": "2017",
       "courses": [
       ]
     }
@@ -44,28 +52,35 @@
   "work": [
     {
       "company": "Firestone Complete Auto Care",
-      "position": "Retail Service", ,
-      "website": "",
-      "startDate": "2023-01-02",
+      "position": "Retail Service(2023), Service and Sales(Current)",
+      "startDate": "2023",
       "endDate": "Present",
-      "summary": "Service Sales and Vehicle Maintanence",
+      "summary": "Providing excellent service to our customers with honest and integrity",
       "highlights": [
-        "To provide excellent service to our customer through honesty and intergrity"
+      "Promotion in 2024, to Service and Sales Specialsit"
       ]
+    }
+  ],
+  "Interships": [
+    {
+      "organization": "Pacific Intership Program for Exploring Science",
+      "website": "https://www.bth.se/eng/",
+      "position": "Student Intern",
+      "startDate": "June 2019",
+      "endDate": "August 2019",
+      "summary": "Research in Volcanic Eruptions"
     },
     {
-      "company": "Walmart",
-      "position": "Help Desk phone service, electronic department",
-      "website": "",
-      "startDate": "2021-08-06",
-      "endDate": "2022-08-06",
-      "summary": "To provide service to customers with their phone service",
-      "highlights": [
-        "Troubleshoot cell phones, hardware and networking issues over the phone",
-        "Answer phone ITS Help Desk"
-      ]
+      "organization": "'Ike Wai Summer Bridge Program",
+      "position": "Student intern",
+      "startDate": "June 2018",
+      "endDate": "July 2018",
+      "summary": "Research in Data Science through USGS well data."
     }
-   
- 
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
     }
-  
+  ]
+}
