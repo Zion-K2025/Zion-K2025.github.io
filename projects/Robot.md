@@ -18,7 +18,7 @@ summary: "My team developed a robot that is able to climb stairs, while transpor
 <br/>
 This project was during one of my previous engineering classes, Mechanical Engineering 213. The goal was to build a functioing robot using Audino. the goal of the project was to retrieve an egg at a given position while ascending and descending a flight of stairs without breaked the delivery package(said egg). The first step was determing how are we going to grab the egg without breaking it, taking into account the distance ascending up the stairs and down the stairs. We decided in creating 3d printed parts, designing a claw structure for the retrieval. Through the program onshape, we created our design, while making designated slots for the motor to spin, giving the claw the ability to open and close. 
 <br/>
-</<img width="114" alt="staircasepic" src="https://github.com/user-attachments/assets/04501dea-4b9b-4aa9-b7cb-bbaa5f5ba567" />
+<img width="114" alt="staircasepic" src="https://github.com/user-attachments/assets/04501dea-4b9b-4aa9-b7cb-bbaa5f5ba567" />
 <br/>
 this is the staircase of holmes building.
 <br/>
