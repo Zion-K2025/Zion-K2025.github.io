@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/robotpic4.png
 title: "ME213: Project Alpha"
 date: 2022
 published: true
