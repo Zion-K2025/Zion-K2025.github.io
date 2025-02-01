@@ -9,29 +9,16 @@ labels:
   - Data Science
   - Mathematics
   - 
-summary: "The 'Ike Wai Summer Bridge is a extensive program for students in Stem to learn Data Science while applying it calculate the acidity in wells on the island of HAwaii "
+summary: "The 'Ike Wai Summer Bridge is a extensive program for students in Stem to learn Data Science and Mathematics. Student will apply these skills into a student project by calculating the amount of chloride in wells on the island of Hawaii."
 ---
 
 <div class="text-center p-4">
 <img width="244" alt="ChlorideLevelPic" src="https://github.com/user-attachments/assets/5bee999a-8f06-4a38-b728-89c829642307" />
+<img width="244" alt="ChlorideLevelPic" src="https://github.com/user-attachments/assets/ef8baa65-5f5c-4fff-9e17-38c472a15012" />
+
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+The 'Ike Wai program is a combination of an advanced placement course learning both Calculus 1 which would be counted as college credits and Data Science. During the program, The professors introduced us to r-code. I learned data science by using Data camp which UH Hilo sponsored. The expectation was to input Well data provided by the USGS into an excel sheet, upload the inputs into r-code and create graphs to compare the level of chloride between multiple wells, while comming up with conclusions of the reason for the cause elevate chloride in certain areas.  
+<\b>
+I worked in a group of 3 to split the amount of entries that needed to be inputed. There was well over 3000 entries. each entry with varying information. Once all entries were completed in excel, all data was transfered into our r-code program allowing my team to plot graphs and compare information between each year of gathered and data and their locations. 
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
-
-Here is some code that illustrates how we read values from the line sensors:
-
-```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
