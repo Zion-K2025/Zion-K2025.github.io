@@ -14,12 +14,13 @@ summary: "My team developed a robot that is able to climb stairs, while transpor
  class="text-center p-4">
 <div<img width="244" alt="RobotPic1" src="https://github.com/user-attachments/assets/42eaaf47-967e-4d3f-8bba-4039da0e9dc5" />
 <img width="204" alt="robotpic2" src="https://github.com/user-attachments/assets/eaa08eac-6867-4c30-9d23-d6272ae8ef64" />
-
 </div>
-
+</br>
 This project was during one of my previous engineering classes, Mechanical Engineering 213. The goal was to build a functioing robot using Audino. the goal of the project was to retrieve an egg at a given position while ascending and descending a flight of stairs without breaked the delivery package(said egg).
-br>
+</br>
 </<img width="114" alt="staircasepic" src="https://github.com/user-attachments/assets/04501dea-4b9b-4aa9-b7cb-bbaa5f5ba567" />
+</br>
+
 this is the staircase of holmes building.
 </br>
 THE EGG
