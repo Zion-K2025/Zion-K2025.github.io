@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image:
+image: Screenshot 2025-01-31 184306.png
 title: "'Ike Wai Summer Bridge Program"
 date: 2018
 published: true
